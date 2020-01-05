@@ -1,0 +1,22 @@
+{
+  "name": "work_time_gap",
+  "version": "1.0.0",
+  "description": "Decide whether your pieces of work date scopes cover the required date scope.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiy037/work_time_gap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiy037/work_time_gap/issues"
+  },
+  "homepage": "https://github.com/xiy037/work_time_gap#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
