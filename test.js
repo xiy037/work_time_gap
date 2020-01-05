@@ -1,4 +1,4 @@
-const isCover = require("./index");
+const isCover = require("./revised");
 
 describe("Is custromer's request met?", () => {
   const assignments1 = [
